@@ -1,12 +1,11 @@
-# Project Instructions
+# SOPs
 
-Instructions prêtes à coller dans les Projects Claude.
+Procédures opérationnelles standard.
 
-Chaque fichier doit indiquer :
-- nom du Project ;
-- objectif ;
-- documents sources ;
-- règles autorisées ;
-- règles interdites ;
-- format de réponse ;
-- validations humaines nécessaires.
+Exemples :
+- créer un Project client ;
+- préparer un audit ;
+- vérifier un livrable ;
+- gérer un hors-scope ;
+- utiliser Cowork ;
+- utiliser Claude Code.
