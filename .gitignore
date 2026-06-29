@@ -1,0 +1,29 @@
+# Données sensibles
+.env
+*.env
+secrets.*
+credentials.*
+*.key
+*.pem
+
+# Données clients
+clients/
+client-data/
+private/
+confidential/
+factures/
+contrats-signes/
+devis-signes/
+exports-gmail/
+analytics-client/
+
+# Fichiers temporaires
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Exports lourds
+*.zip
+*.7z
+*.rar
