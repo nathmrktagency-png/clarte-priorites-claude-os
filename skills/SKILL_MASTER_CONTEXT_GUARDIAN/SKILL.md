@@ -24,7 +24,7 @@ une recommandation ou un document respecte les règles fondamentales du business
 — avant que quoi que ce soit ne soit envoyé, livré, publié ou engagé.
 
 L'enjeu est de protéger le positionnement, la crédibilité, la marge et le scope
-de Nathalie. Une formulation mal calibrée, une promesse glissée involontairement
+de Nathan. Une formulation mal calibrée, une promesse glissée involontairement
 ou un engagement hors-cadre peuvent créer des attentes client impossibles à
 tenir, des litiges ou une dilution de l'offre.
 
@@ -133,7 +133,7 @@ Proposer une version corrigée des passages problématiques, en conservant
 l'intention initiale mais en l'alignant sur le positionnement du business.
 
 **7. Validation humaine nécessaire**
-Indiquer clairement ce que Nathalie doit valider elle-même avant toute suite.
+Indiquer clairement ce que Nathan doit valider lui-même avant toute suite.
 
 ## Exemple de verdict
 
